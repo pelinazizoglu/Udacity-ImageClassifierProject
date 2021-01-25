@@ -5,9 +5,7 @@
 
 • Result: Using the following software and Python libraries: Torch, PIL, Matplotlib.pyplot, Numpy, Seaborn, Torchvision. Thus, achieved an accuracy of 80% on test dataset as a result of above approaches. Plotted the probabilities for the top 5 classes as a bar graph, along with the input image.
 
-• Software and Libraries
-This project uses the following software and Python libraries:
+• Software and Libraries: This project uses the following software and Python libraries:
 NumPy, pandas, Sklearn / scikit-learn, Matplotlib and Seaborn (for data visualization)
 
-• Code File
-Open file jupyter notebook imageclassifierproject.ipynb
+• Code File: Open file jupyter notebook imageclassifierproject.ipynb
